@@ -1,0 +1,7 @@
+function Name(){
+    return(
+        <h1>My name is himanshu</h1>
+    )
+}
+
+export default Name;
